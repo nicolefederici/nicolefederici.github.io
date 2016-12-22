@@ -4,7 +4,9 @@ title:  "Hypermedia Wonderland"
 date:   2016-12-20 00:30:19 +0000
 ---
 
-![Cramped Alice](http://www.gutenberg.org/files/114/114-h/images/alice11a.gif)
+![Cramped Alice](http://www.victorianweb.org/art/illustration/tenniel/alice/4.1.jpg)
+
+Illustration to the fourth chapter of Alice in Wonderland by John Tenniel. Wood-engraving by Thomas Dalziel.
 
 <strong>Desperados in a Crisis of Content</strong>
 
@@ -18,7 +20,7 @@ Our truest stories are always partially hidden inside forms that can't handle th
 
 In Shakespeare’s time, left to right quills were around for everyone with paper to write on. And as a result, lots of groovy left to right stuff got written. It wasn’t so much low-tech, as it was representative of the platforms of the day. But why not high-tech now? Throughout history, so much of what we called <em>Art</em> was craft glorified by excessive labor. That value system made some sense before faithful reproduction and recording technologies became mainstream. At some point, the cool kids mostly agreed that realism in painting wasn’t as compelling after photography emerged. That shift did A<em>rt</em> a huge favor, because it forced artists to deal in ideas. And thank God.
 
-<img class="alignnone size-full wp-image-812" src="https://nicolefederici.files.wordpress.com/2016/12/serrano-andres-piss-christ-1987.jpg" alt="Andres Serrano - Piss Christ" width="700" height="1024" /> 
+<img class="alignnone size-full wp-image-812" src="https://nicolefederici.files.wordpress.com/2016/12/serrano-andres-piss-christ-1987.jpg" alt="Andres Serrano - Piss Christ" width="350" height="512" /> 
 
 *Piss Christ* by Andres Serrano
 
